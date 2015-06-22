@@ -1,0 +1,3 @@
+[submodule "cleanflight"]
+	path = cleanflight
+	url = git@github.com:cleanflight/cleanflight.git
